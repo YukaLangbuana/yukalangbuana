@@ -1,16 +1,26 @@
-### Hi there 👋
+# What?
 
-<!--
-**YukaLangbuana/yukalangbuana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Main projects**
 
-Here are some ideas to get you started:
+| Project | Description |
+|---|---|
+| **[net](https://github.com/YukaLangbuana/net)** | The modern C networking library |
+| **[logging](https://github.com/YukaLangbuana/logging)** | Zero allocation JSON logger |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Why?
+
+*C combines the power and performance of assembly language with the flexibility and ease-of-use of assembly language.*
+
+Coding backend in C and front-end in HTML/Javascript is the true meaning of life.
+
+# Who?
+
+Yuka Langbuana
+
+Quantitative analyst & market maker. My career and interest evolves around the topic of computational finance and real-time systems.
+
+# Where?
+
+[Jakarta, Indonesia](https://www.openstreetmap.org/#map=18/-6.1753/106.8273)
+
